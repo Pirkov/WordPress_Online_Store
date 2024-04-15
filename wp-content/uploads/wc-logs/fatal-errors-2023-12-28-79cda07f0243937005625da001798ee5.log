@@ -1,0 +1,674 @@
+2023-12-28T00:02:57+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-admin\includes\class-wp-filesystem-direct.php доступно 76
+
+2023-12-28T00:02:57+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wp-image-editor-imagick.php доступно 144
+
+2023-12-28T00:08:25+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-admin\includes\class-wp-filesystem-direct.php доступно 39
+
+2023-12-28T00:08:26+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wp-image-editor-imagick.php доступно 144
+
+2023-12-28T00:13:01+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T00:13:27+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wp-image-editor-imagick.php доступно 438
+
+2023-12-28T00:14:08+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\ast-block-plugin-loader.php доступно 76
+
+2023-12-28T00:14:08+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\ast-block-plugin-loader.php доступно 76
+
+2023-12-28T00:14:08+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\Requests\src\Transport\Curl.php доступно 510
+
+2023-12-28T00:14:48+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\includes\class-wc-privacy-erasers.php on line 415
+
+2023-12-28T00:14:49+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\cartflows\classes\importer\batch-process\helpers\class-wp-background-process.php on line 10
+
+2023-12-28T00:15:03+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\widgets\class-wp-widget-links.php on line 189
+
+2023-12-28T00:15:06+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\widgets\class-wp-widget-archives.php on line 231
+
+2023-12-28T00:15:07+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\astra-sites\inc\classes\class-astra-sites-error-handler.php on line 9
+
+2023-12-28T00:15:17+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-admin\includes\file.php on line 16
+
+2023-12-28T00:15:17+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\astra-sites\inc\classes\class-astra-sites-elementor-images.php on line 14
+
+2023-12-28T00:15:19+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-admin\includes\image.php доступно 1167
+
+2023-12-28T00:15:19+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\checkout-plugins-stripe-woo\autoloader.php доступно 78
+
+2023-12-28T00:16:20+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\elementor\core\breakpoints\manager.php доступно 156
+
+2023-12-28T00:18:00+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wp-image-editor-imagick.php доступно 888
+
+2023-12-28T00:20:26+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\themes\astra\inc\admin-functions.php доступно 9
+
+2023-12-28T00:20:43+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\admin-functions.php on line 9
+
+2023-12-28T00:20:46+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\dynamic-css\container-layouts.php on line 9
+
+2023-12-28T00:20:52+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\class-wpdb.php on line 2349
+
+2023-12-28T00:20:52+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\class-wp-hook.php on line 323
+
+2023-12-28T00:21:02+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\functions.php on line 650
+
+2023-12-28T00:21:03+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\themes\astra\inc\builder\type\header\above-header\class-astra-above-header-loader.php доступно 12
+
+2023-12-28T00:21:40+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\functions.php on line 4579
+
+2023-12-28T00:22:04+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\functions.php on line 4593
+
+2023-12-28T00:22:04+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\blocks.php on line 356
+
+2023-12-28T00:22:04+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\functions.php on line 4593
+
+2023-12-28T00:22:04+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\elementor\includes\autoloader.php доступно 293
+
+2023-12-28T00:23:21+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\pomo\translations.php доступно 108
+
+2023-12-28T00:23:58+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-admin\includes\post.php доступно 2638
+
+2023-12-28T00:24:01+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-admin\includes\class-wp-filesystem-direct.php доступно 76
+
+2023-12-28T00:24:24+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\src\Admin\API\Reports\ExportableTraits.php on line 10
+
+2023-12-28T00:26:29+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T00:26:30+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T00:27:32+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-admin\includes\class-wp-filesystem-direct.php доступно 39
+
+2023-12-28T00:29:28+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Utils\CartCheckoutUtils.php доступно 106
+
+2023-12-28T00:32:20+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\includes\wc-user-functions.php доступно 979
+
+2023-12-28T00:32:23+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-shipping-methods-v2-controller.php доступно 232
+
+2023-12-28T00:32:23+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-report-products-totals-controller.php доступно 134
+
+2023-12-28T00:32:24+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-customers-controller.php доступно 286
+
+2023-12-28T00:33:05+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\cartflows\classes\class-cartflows-admin-notices.php on line 44
+
+2023-12-28T00:33:05+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\themes\astra\inc\markup-extras.php доступно 15
+
+2023-12-28T00:33:06+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\pomo\entry.php доступно 100
+
+2023-12-28T00:33:06+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\pomo\mo.php on line 335
+
+2023-12-28T00:33:06+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\cartflows\modules\gutenberg\classes\class-cartflows-gutenberg-editor.php on line 9
+
+2023-12-28T00:33:09+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\themes\astra\inc\class-astra-loop.php доступно 9
+
+2023-12-28T00:33:12+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-admin\includes\class-wp-filesystem-direct.php доступно 39
+
+2023-12-28T00:33:28+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\functions.php on line 4593
+
+2023-12-28T00:33:29+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\elementor\core\common\modules\event-tracker\data\controller.php доступно 9
+
+2023-12-28T00:34:38+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\class-wpdb.php on line 2349
+
+2023-12-28T00:36:33+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T00:36:33+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T00:37:33+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wp-image-editor-imagick.php доступно 438
+
+2023-12-28T00:42:32+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-admin\includes\class-wp-filesystem-direct.php доступно 39
+
+2023-12-28T00:43:15+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\rest-api\class-wp-rest-server.php доступно 938
+
+2023-12-28T00:46:23+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\functions.php on line 4593
+
+2023-12-28T00:46:24+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\blocks.php on line 356
+
+2023-12-28T00:46:24+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\elementor\includes\autoloader.php on line 293
+
+2023-12-28T00:46:25+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\blocks.php on line 356
+
+2023-12-28T00:46:25+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\elementor\includes\template-library\manager.php on line 13
+
+2023-12-28T00:46:25+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\elementor\modules\system-info\module.php доступно 11
+
+2023-12-28T00:47:26+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\modules\posts-structures\class-astra-post-structures.php on line 9
+
+2023-12-28T00:47:27+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\functions.php on line 650
+
+2023-12-28T00:47:27+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\class-astra-after-setup-theme.php on line 25
+
+2023-12-28T00:47:27+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\compatibility\class-astra-contact-form-7.php on line 9
+
+2023-12-28T00:47:27+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\modules\related-posts\class-astra-related-posts-markup.php on line 12
+
+2023-12-28T00:47:29+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\addons\scroll-to-top\class-astra-scroll-to-top.php on line 9
+
+2023-12-28T00:48:53+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T00:48:53+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-order-refunds-controller.php доступно 123
+
+2023-12-28T00:48:53+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wp-http-response.php доступно 138
+
+2023-12-28T00:50:11+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-admin\includes\class-wp-filesystem-direct.php доступно 39
+
+2023-12-28T00:50:58+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T00:50:59+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T00:50:59+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T00:52:36+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T00:52:37+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T00:54:00+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-admin\includes\class-wp-filesystem-direct.php доступно 39
+
+2023-12-28T00:55:10+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T00:57:08+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T01:00:07+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\rest-api\endpoints\class-wp-rest-controller.php доступно 610
+
+2023-12-28T01:00:07+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\src\Internal\Admin\ProductReviews\Reviews.php доступно 533
+
+2023-12-28T01:00:07+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\rest-api\endpoints\class-wp-rest-controller.php доступно 398
+
+2023-12-28T01:00:50+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T01:01:08+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\plugin.php on line 195
+
+2023-12-28T01:01:08+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\plugin.php on line 205
+
+2023-12-28T01:01:12+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-products-v1-controller.php доступно 15
+
+2023-12-28T01:01:12+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T01:01:12+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\l10n.php доступно 783
+
+2023-12-28T01:02:13+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\patterns\header-large-dark.php доступно 9
+
+2023-12-28T01:02:14+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\functions.php доступно 2124
+
+2023-12-28T01:02:14+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\blocks.php доступно 356
+
+2023-12-28T01:02:14+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\functions.php доступно 4579
+
+2023-12-28T01:02:14+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\blocks.php доступно 356
+
+2023-12-28T01:02:22+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\includes\rest-api\Server.php доступно 10
+
+2023-12-28T01:02:34+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockPatterns.php доступно 169
+
+2023-12-28T01:02:34+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\Cart.php доступно 11
+
+2023-12-28T01:02:34+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockPatterns.php доступно 128
+
+2023-12-28T01:03:47+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wp-image-editor-imagick.php доступно 888
+
+2023-12-28T01:05:19+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\functions.php on line 4593
+
+2023-12-28T01:05:20+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\functions.php доступно 7241
+
+2023-12-28T01:05:56+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\class-wpdb.php on line 2349
+
+2023-12-28T01:05:57+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\src\Internal\Admin\Onboarding\OnboardingSync.php on line 153
+
+2023-12-28T01:06:02+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\polylang\modules\sync\sync.php on line 269
+
+2023-12-28T01:06:02+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\polylang\modules\wpml\wpml-config.php on line 853
+
+2023-12-28T01:06:03+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\checkout-plugins-stripe-woo\autoloader.php on line 78
+
+2023-12-28T01:06:03+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\vendor\automattic\jetpack-connection\src\class-tokens.php on line 688
+
+2023-12-28T01:06:13+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\src\Admin\PluginsHelper.php on line 20
+
+2023-12-28T01:06:13+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\src\Internal\Admin\WCAdminAssets.php on line 463
+
+2023-12-28T01:06:30+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\functions.php доступно 4593
+
+2023-12-28T01:07:55+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\functions.php доступно 650
+
+2023-12-28T01:08:09+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\Requests\src\Transport\Curl.php on line 205
+
+2023-12-28T01:08:29+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\compatibility\class-astra-amp.php on line 12
+
+2023-12-28T01:08:35+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\lib\webfont\class-astra-webfont-loader.php on line 686
+
+2023-12-28T01:08:35+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\dynamic-css\custom-menu-old-header.php on line 9
+
+2023-12-28T01:08:45+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-admin\includes\class-wp-filesystem-direct.php доступно 66
+
+2023-12-28T01:09:02+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\elementor\includes\maintenance-mode.php доступно 6
+
+2023-12-28T01:09:22+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\functions.php on line 4593
+
+2023-12-28T01:09:22+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Assets\Api.php доступно 112
+
+2023-12-28T01:11:26+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T01:13:45+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\functions.php доступно 6805
+
+2023-12-28T01:13:46+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php доступно 185
+
+2023-12-28T01:13:46+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-admin\includes\class-wp-filesystem-direct.php доступно 39
+
+2023-12-28T01:13:46+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\l10n.php on line 1250
+
+2023-12-28T01:17:23+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wp-image-editor-imagick.php доступно 888
+
+2023-12-28T01:21:49+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\functions.php доступно 650
+
+2023-12-28T01:21:49+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\functions.php доступно 650
+
+2023-12-28T01:21:50+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\functions.php on line 650
+
+2023-12-28T01:23:08+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-admin\includes\class-wp-filesystem-direct.php доступно 76
+
+2023-12-28T01:23:20+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\elementor\includes\widgets\traits\button-trait.php доступно 15
+
+2023-12-28T01:27:07+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T01:27:22+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\plugin.php доступно 205
+
+2023-12-28T01:28:18+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\inc\importer\plugin.php доступно 1211
+
+2023-12-28T01:34:36+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wp-hook.php доступно 329
+
+2023-12-28T01:34:36+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-admin\includes\class-wp-filesystem-direct.php доступно 39
+
+2023-12-28T01:34:37+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T01:37:11+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-admin\includes\class-wp-filesystem-direct.php доступно 39
+
+2023-12-28T01:38:24+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\functions.php on line 4593
+
+2023-12-28T01:38:24+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\OrderConfirmation\Downloads.php on line 162
+
+2023-12-28T01:38:24+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\functions.php on line 4593
+
+2023-12-28T01:38:26+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\astra-sites\inc\importers\wxr-importer\class-astra-wxr-importer.php доступно 9
+
+2023-12-28T01:38:32+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Payments\Integrations\CashOnDelivery.php on line 102
+
+2023-12-28T01:39:01+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\contact-form-7\includes\swv\swv.php on line 54
+
+2023-12-28T01:39:33+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\src\Admin\Features\ProductBlockEditor\Init.php on line 242
+
+2023-12-28T01:39:35+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\elementor\includes\autoloader.php on line 293
+
+2023-12-28T01:39:51+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\customizer\configurations\builder\header\configs\edd-cart.php on line 12
+
+2023-12-28T01:39:51+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\builder\type\class-astra-builder-base-dynamic-css.php on line 9
+
+2023-12-28T01:40:05+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\compatibility\woocommerce\woocommerce-common-functions.php on line 14
+
+2023-12-28T01:40:05+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\compatibility\learndash\class-astra-learndash.php on line 10
+
+2023-12-28T01:40:37+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\class-wp-hook.php on line 93
+
+2023-12-28T01:40:37+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\blocks.php доступно 356
+
+2023-12-28T01:40:59+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\inc\content\ai-content.php on line 22
+
+2023-12-28T01:42:48+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T01:42:48+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-admin\includes\class-wp-filesystem-direct.php доступно 76
+
+2023-12-28T01:42:59+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\l10n.php on line 253
+
+2023-12-28T01:44:53+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T01:46:55+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\plugin.php доступно 173
+
+2023-12-28T01:47:58+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-admin\includes\class-wp-filesystem-direct.php доступно 39
+
+2023-12-28T01:48:50+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-orders-v1-controller.php доступно 16
+
+2023-12-28T01:48:51+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T01:48:58+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\general-template.php доступно 909
+
+2023-12-28T01:48:58+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\ast-block-plugin-loader.php доступно 76
+
+2023-12-28T01:52:32+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\Requests\src\Transport\Curl.php доступно 205
+
+2023-12-28T01:54:08+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\functions.php доступно 4593
+
+2023-12-28T01:54:10+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\functions.php доступно 4593
+
+2023-12-28T01:54:10+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wp-hook.php доступно 311
+
+2023-12-28T01:54:20+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\ast-block-plugin-loader.php доступно 76
+
+2023-12-28T01:57:09+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-admin\includes\class-wp-filesystem-direct.php доступно 39
+
+2023-12-28T01:58:21+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T01:58:51+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\inc\importer\sync-library.php on line 21
+
+2023-12-28T01:58:51+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\ast-block-plugin-loader.php on line 76
+
+2023-12-28T01:58:51+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\inc\importer\sync-library.php on line 21
+
+2023-12-28T01:58:51+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\l10n.php on line 185
+
+2023-12-28T01:58:51+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\includes\admin\settings\class-wc-settings-shipping.php доступно 14
+
+2023-12-28T01:59:02+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-setting-options-v2-controller.php on line 593
+
+2023-12-28T01:59:53+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\functions.php on line 6805
+
+2023-12-28T01:59:53+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\src\Admin\API\Reports\Products\DataStore.php on line 8
+
+2023-12-28T01:59:53+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Interactivity\scripts.php on line 21
+
+2023-12-28T01:59:53+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\src\Admin\API\Reports\Products\DataStore.php on line 8
+
+2023-12-28T01:59:53+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-admin\includes\plugin.php on line 334
+
+2023-12-28T01:59:54+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Shipping\ShippingController.php on line 516
+
+2023-12-28T02:00:03+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\addons\breadcrumbs\class-astra-breadcrumbs-loader.php on line 12
+
+2023-12-28T02:00:55+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\elementor\includes\autoloader.php on line 293
+
+2023-12-28T02:00:56+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\elementor\core\common\modules\event-tracker\data\controller.php on line 16
+
+2023-12-28T02:00:57+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Assets\Api.php доступно 112
+
+2023-12-28T02:02:47+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T02:02:47+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T02:03:48+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T02:04:03+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\inc\importer\image-importer.php доступно 28
+
+2023-12-28T02:04:06+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\includes\gateways\cheque\class-wc-gateway-cheque.php доступно 8
+
+2023-12-28T02:07:07+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wp-image-editor-imagick.php доступно 438
+
+2023-12-28T02:08:56+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\class-wpdb.php on line 2349
+
+2023-12-28T02:08:57+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\Requests\src\Transport\Curl.php on line 205
+
+2023-12-28T02:08:57+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\inc\importer\image-importer.php on line 28
+
+2023-12-28T02:09:56+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductResultsCount.php доступно 54
+
+2023-12-28T02:10:02+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\elementor\includes\autoloader.php доступно 293
+
+2023-12-28T02:10:02+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\elementor\includes\tracker.php доступно 8
+
+2023-12-28T02:10:04+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\themes\astra\inc\core\builder\class-astra-builder-helper.php доступно 9
+
+2023-12-28T02:10:08+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\cartflows\classes\importer\batch-process\class-cartflows-batch-process.php on line 10
+
+2023-12-28T02:10:08+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\cartflows\libraries\cartflows-plugin-update-notifications\class-cartflows-plugin-update-notifications.php on line 10
+
+2023-12-28T02:10:10+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\cartflows\modules\checkout\class-cartflows-checkout.php on line 13
+
+2023-12-28T02:10:49+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\functions.php доступно 4579
+
+2023-12-28T02:10:49+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\l10n.php доступно 1254
+
+2023-12-28T02:11:24+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-product-tags-controller.php доступно 28
+
+2023-12-28T02:13:11+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-order-notes-v2-controller.php доступно 183
+
+2023-12-28T02:13:12+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T02:13:12+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T02:13:54+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T02:15:20+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T02:15:20+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T02:21:32+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T02:25:44+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-admin\includes\post.php доступно 2638
+
+2023-12-28T02:27:26+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T02:35:16+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T02:50:27+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\vendor\jetpack-autoloader\class-version-loader.php on line 107
+
+2023-12-28T02:50:29+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-product-variations-v2-controller.php on line 999
+
+2023-12-28T02:50:30+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\envato-elements\inc\api\class-template-kit-import.php on line 17
+
+2023-12-28T02:50:31+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Assets\Api.php on line 112
+
+2023-12-28T02:50:36+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\blocks.php доступно 356
+
+2023-12-28T02:50:36+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockPatterns.php on line 128
+
+2023-12-28T02:51:28+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\elementor\includes\user.php доступно 6
+
+2023-12-28T02:51:37+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\elementor\includes\autoloader.php on line 293
+
+2023-12-28T02:51:43+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\cartflows\modules\gutenberg\dist\blocks\checkout-form\class-wcfb-checkout-form.php on line 8
+
+2023-12-28T02:51:44+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\class-astra-dynamic-css.php on line 13
+
+2023-12-28T02:51:44+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\formatting.php on line 2831
+
+2023-12-28T02:51:44+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\cartflows\classes\logger\class-cartflows-logger-interface.php доступно 9
+
+2023-12-28T02:51:44+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\cartflows\wizard\ajax\wizard.php доступно 11
+
+2023-12-28T02:52:41+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T02:52:46+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\elementor\data\v2\base\endpoint\index.php доступно 7
+
+2023-12-28T02:55:17+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T02:56:32+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T02:58:06+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php доступно 188
+
+2023-12-28T02:58:06+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Assets\Api.php доступно 112
+
+2023-12-28T02:58:06+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php доступно 185
+
+2023-12-28T02:58:16+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\src\Internal\Admin\Orders\PageController.php доступно 10
+
+2023-12-28T03:01:27+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T03:04:08+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T03:07:29+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-product-tags-controller.php доступно 28
+
+2023-12-28T03:09:31+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T03:13:00+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Assets\Api.php доступно 112
+
+2023-12-28T03:13:00+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\plugin.php on line 179
+
+2023-12-28T03:13:01+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\taxonomy.php on line 1732
+
+2023-12-28T03:13:02+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\blocks.php on line 180
+
+2023-12-28T03:13:02+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\blocks\blocks-json.php доступно 3
+
+2023-12-28T03:13:29+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\addons\heading-colors\class-astra-heading-colors-loader.php on line 12
+
+2023-12-28T03:13:29+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\customizer\configurations\builder\header\configs\header-builder.php on line 12
+
+2023-12-28T03:14:06+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\elementor\includes\autoloader.php on line 293
+
+2023-12-28T03:14:07+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\elementor\includes\autoloader.php on line 293
+
+2023-12-28T03:14:07+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\elementor\includes\autoloader.php on line 293
+
+2023-12-28T03:14:12+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\blocks.php on line 377
+
+2023-12-28T03:14:32+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\functions.php доступно 4593
+
+2023-12-28T03:15:11+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wp-object-cache.php доступно 180
+
+2023-12-28T03:15:11+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-crud-controller.php on line 10
+
+2023-12-28T03:15:11+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\CartExpressPaymentBlock.php доступно 15
+
+2023-12-28T03:17:53+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wp-theme.php доступно 1326
+
+2023-12-28T03:25:36+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\cartflows\modules\gutenberg\src\controls\spectra-icons-v6.php доступно 13
+
+2023-12-28T03:29:28+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\themes\astra\inc\compatibility\class-astra-contact-form-7.php доступно 9
+
+2023-12-28T03:29:29+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\functions.php on line 650
+
+2023-12-28T03:29:30+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\builder\type\footer\widget\class-astra-footer-widget-component-loader.php on line 12
+
+2023-12-28T03:29:32+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\core\markup\class-astra-markup.php on line 12
+
+2023-12-28T03:29:32+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\builder\type\footer\copyright\dynamic-css\dynamic.css.php on line 9
+
+2023-12-28T03:29:34+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\core\builder\class-astra-builder-options.php on line 1843
+
+2023-12-28T03:30:02+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\themes\astra\inc\core\deprecated\deprecated-hooks.php доступно 12
+
+2023-12-28T03:30:33+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\elementor\includes\autoloader.php on line 293
+
+2023-12-28T03:30:33+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\elementor\modules\container-converter\module.php on line 9
+
+2023-12-28T03:30:37+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\polylang\include\widget-calendar.php on line 6
+
+2023-12-28T03:30:43+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\elementor\includes\autoloader.php доступно 293
+
+2023-12-28T03:30:43+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\elementor\includes\autoloader.php on line 293
+
+2023-12-28T03:41:43+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T03:43:42+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T03:45:04+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\elementor\includes\autoloader.php доступно 293
+
+2023-12-28T03:53:52+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Assets\Api.php доступно 112
+
+2023-12-28T03:53:56+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\pomo\translations.php доступно 101
+
+2023-12-28T03:54:07+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\addons\transparent-header\class-astra-ext-transparent-header.php on line 8
+
+2023-12-28T03:54:15+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\themes\astra\inc\customizer\configurations\builder\base\class-astra-button-component-configs.php доступно 13
+
+2023-12-28T03:54:15+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\themes\astra\inc\builder\type\header\off-canvas\class-astra-off-canvas.php доступно 12
+
+2023-12-28T03:54:28+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\pomo\mo.php on line 285
+
+2023-12-28T03:54:28+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\elementor\includes\autoloader.php доступно 293
+
+2023-12-28T03:54:50+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\Requests\src\Transport\Curl.php доступно 205
+
+2023-12-28T03:55:29+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-system-status-tools-v2-controller.php доступно 657
+
+2023-12-28T03:56:28+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T03:56:36+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\l10n.php доступно 1250
+
+2023-12-28T03:56:39+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\includes\emails\class-wc-email-customer-on-hold-order.php on line 8
+
+2023-12-28T03:58:02+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T03:59:09+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\plugin.php доступно 179
+
+2023-12-28T04:05:13+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\elementor\includes\autoloader.php доступно 293
+
+2023-12-28T04:05:15+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 10
+
+2023-12-28T04:05:16+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\elementor\includes\autoloader.php on line 293
+
+2023-12-28T04:05:16+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\elementor\includes\autoloader.php on line 293
+
+2023-12-28T04:05:23+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\blocks.php on line 377
+
+2023-12-28T04:05:35+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\elementor\includes\autoloader.php on line 293
+
+2023-12-28T04:05:35+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\elementor\core\upgrade\manager.php доступно 6
+
+2023-12-28T04:06:23+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\builder\type\footer\above-footer\dynamic-css\dynamic.css.php on line 9
+
+2023-12-28T04:06:23+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\builder\type\footer\above-footer\class-astra-above-footer-component-loader.php on line 12
+
+2023-12-28T04:06:23+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\builder\type\header\woo-cart\class-astra-header-woo-cart-component.php on line 12
+
+2023-12-28T04:06:35+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\core\builder\class-astra-builder-options.php on line 1805
+
+2023-12-28T04:06:38+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\themes\astra\inc\customizer\configurations\builder\base\class-astra-button-component-configs.php доступно 13
+
+2023-12-28T04:06:38+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\themes\astra\inc\customizer\configurations\builder\header\configs\mobile-menu.php доступно 12
+
+2023-12-28T04:07:17+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\MiniCartCartButtonBlock.php доступно 15
+
+2023-12-28T04:07:24+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\pomo\mo.php доступно 285
+
+2023-12-28T04:13:24+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T04:14:53+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\functions.php доступно 4593
+
+2023-12-28T04:14:55+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\pomo\mo.php on line 54
+
+2023-12-28T04:14:55+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\blocks.php доступно 356
+
+2023-12-28T04:15:01+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Payments\Integrations\Cheque.php доступно 12
+
+2023-12-28T04:15:11+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\functions.php on line 4593
+
+2023-12-28T04:52:20+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\functions.php доступно 4854
+
+2023-12-28T04:52:20+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\src\Admin\DataSourcePoller.php доступно 257
+
+2023-12-28T04:52:29+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\src\Internal\Admin\ProductReviews\Reviews.php on line 533
+
+2023-12-28T04:52:30+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\src\Internal\Traits\AccessiblePrivateMethods.php on line 157
+
+2023-12-28T04:56:55+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wp-dependencies.php доступно 273
+
+2023-12-28T04:56:55+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\MiniCartTitleBlock.php доступно 15
+
+2023-12-28T04:56:55+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T05:01:14+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\pomo\mo.php доступно 320
+
+2023-12-28T05:01:14+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\l10n.php доступно 783
+
+2023-12-28T05:01:20+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Assets\Api.php on line 112
+
+2023-12-28T05:01:23+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductSummary.php on line 55
+
+2023-12-28T05:01:23+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\functions.php on line 4593
+
+2023-12-28T05:01:24+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\functions.php доступно 6805
+
+2023-12-28T05:02:18+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\functions.php доступно 650
+
+2023-12-28T05:02:18+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-admin\includes\class-wp-site-health.php on line 3636
+
+2023-12-28T05:02:19+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\themes\astra\inc\builder\type\footer\below-footer\class-astra-below-footer.php доступно 12
+
+2023-12-28T05:02:24+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\elementor\includes\autoloader.php on line 293
+
+2023-12-28T05:02:24+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\elementor\includes\autoloader.php on line 293
+
+2023-12-28T05:02:26+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\class-wp-hook.php on line 304
+
+2023-12-28T05:02:26+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\elementor\includes\autoloader.php on line 293
+
+2023-12-28T05:02:26+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\functions.php доступно 650
+
+2023-12-28T05:03:02+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T05:04:18+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T05:04:24+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\class-wpdb.php доступно 2349
+
+2023-12-28T05:05:51+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-includes\plugin.php доступно 205
+
+2023-12-28T05:22:51+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\includes\wc-page-functions.php доступно 54
+
+2023-12-28T05:23:50+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\MiniCartCartButtonBlock.php доступно 15
+
+2023-12-28T05:23:55+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у W:\domains\bestbuy\wp-content\themes\astra\inc\modules\related-posts\customizer\class-astra-related-posts-configs.php доступно 12
+

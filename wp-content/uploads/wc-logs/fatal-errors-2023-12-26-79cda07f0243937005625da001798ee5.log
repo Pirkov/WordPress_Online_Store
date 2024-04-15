@@ -1,0 +1,32 @@
+2023-12-26T10:45:01+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\functions.php on line 6805
+
+2023-12-26T10:45:05+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\functions.php on line 6805
+
+2023-12-26T10:46:05+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-shipping-method-pickup-location.asset.php on line 1
+
+2023-12-26T10:53:07+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\src\Admin\Features\PaymentGatewaySuggestions\Init.php on line 8
+
+2023-12-26T10:53:18+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\customizer\configurations\builder\header\configs\woo-cart.php on line 12
+
+2023-12-26T10:53:18+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\builder\type\header\above-header\class-astra-above-header.php on line 12
+
+2023-12-26T10:53:25+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\customizer\configurations\builder\header\configs\above-header.php on line 12
+
+2023-12-26T10:53:26+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\customizer\class-astra-builder-customizer.php on line 44
+
+2023-12-26T10:53:27+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\builder\type\header\html\class-astra-header-html-component-loader.php on line 12
+
+2023-12-26T10:53:27+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\builder\type\header\primary-header\class-astra-primary-header-loader.php on line 12
+
+2023-12-26T19:45:13+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\action-scheduler\deprecated\ActionScheduler_Abstract_QueueRunner_Deprecated.php on line 28
+
+2023-12-26T19:46:27+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\themes\astra\inc\class-astra-dynamic-css.php on line 13
+
+2023-12-26T19:47:34+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\DeprecatedOptions.php on line 76
+
+2023-12-26T19:50:19+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\CartOrderSummaryDiscountBlock.php on line 15
+
+2023-12-26T19:53:43+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-content\plugins\elementor\includes\widgets\divider.php on line 4
+
+2023-12-26T19:55:15+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\bestbuy\wp-includes\Requests\src\Transport\Curl.php on line 25
+
